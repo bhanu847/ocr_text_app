@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: flask-ocr-tesseract
+    env: docker
+    plan: free
