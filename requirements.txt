@@ -1,0 +1,5 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+pillow==10.3.0
+pytesseract==0.3.10
+gunicorn==22.0.0
